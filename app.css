@@ -1,0 +1,20 @@
+img.die1 {
+      float: left;
+      padding: 20px;
+      margin: 10px;
+      margin-left: 200px;
+ }
+ 
+ img.die2 {
+      float: left;
+      padding: 20px;
+      margin: 10px;
+      margin-left: 130px;
+ }
+ 
+ button {
+       float: left;
+       margin: 40px;
+       clear: both;
+       margin-left: 300px;
+ }
